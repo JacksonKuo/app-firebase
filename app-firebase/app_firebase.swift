@@ -19,7 +19,6 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     }
 }
 
-
 @main
 struct app_firebase: App {
     // Create the AppDelegate
